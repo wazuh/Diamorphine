@@ -1,6 +1,10 @@
 Diamorphine
 ===========
 
+**Disclaimer** : This is just a Proof-of-Concept to show that OSSEC-HIDS is capable of detecting kernel-mode rootkits.
+This is heavily based on the Diamorphine Rootkit by M0nad, find the original repository here: https://github.com/m0nad/Diamorphine
+
+
 Diamorphine is a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x
 
 Features
